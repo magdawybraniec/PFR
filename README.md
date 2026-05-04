@@ -165,11 +165,7 @@ Diagram trzech warstw z HUH jako fundamentem: **dane** (wearables + polskie laby
 **Clinical team (kontraktowo):** ortopeda dr n. med., fizjoterapeuta, endokrynolożki ×2, dietetyczka kliniczna dr n. med., psycholożka sportowa, coach zmiany — 7 specjalistów
  
 ### Slajd 12 — Runda
- 
-**Round size: 5 mln PLN (seed/pre-seed) sought from VC partners via PFR FoH Business Mixer (22–23.06.2026).** Lead ticket: 2–3 mln. Co-invest / syndicate: 2–2,5 mln.
- 
-*PFR Future of Health = akcelerator edukacyjny + bramka networkingowa do VC. Sam program nie zapewnia finansowania. Ticket 5 mln pozyskujemy z funduszy w trakcie i po programie.*
- 
+  
 **Use of funds (24 mies.):**
 - Tech team & build — 25%
 - Clinical team & operations — 30%
@@ -188,10 +184,4 @@ Diagram trzech warstw z HUH jako fundamentem: **dane** (wearables + polskie laby
 - 1 publication submitted
 **Investor pipeline:** Active conversations with Gdańsk-based healthtech/longevity-focused VCs (Black Pearls VC, Aegis Capital) and Warsaw-based seed funds via PFR FoH Business Mixer.
  
-### Appendix (po slajdzie 12)
- 
-- A1: Architektura systemu (Krzysiek)
-- A2: Customer Journey Map (Monia Świątek-Jopek)
-- A3: Plan finansowy 24 mies. high-level
-- A4: Roadmapa 4 faz (klinika → remote care → SaaS PL/CEE → SaaS EU)
-- A5: LOI / partner declarations (Nieborowice, Diagnostyka, PJATK, TheLion.AI, Iza Szulc)
+
