@@ -6,6 +6,7 @@
 ### Linia przemowy (frame mentalny do aplikacji)
  
 PFR to nie pitch do VC — to **kwalifikacja do akceleratora**. Nie sprzedajesz wyceny ani exitu, sprzedajesz "jesteśmy gotowi do programu". Mów językiem **clinical platform + polski głos w longevity + zespół który wie co robi**, nie "klinika premium dla bogatych w Trójmieście". Wycena, term sheet, dilution — **ZERO** w decku. Tę rozmowę odbywasz z VC po Demo Day. Tu jest 12 slajdów + appendix; każdy slajd ma jedno zdanie-thesis na górze i 3–5 punktów dowodowych.
+
  
 ### Slajd 1 — Tytuł / Hook
  
@@ -13,6 +14,7 @@ PFR to nie pitch do VC — to **kwalifikacja do akceleratora**. Nie sprzedajesz 
 *Standaryzowane protokoły kliniczne z movement core, polskie integracje danych medycznych, Movement Intelligence — warstwa, której nie ma żaden globalny gracz longevity.*
  
 Magdalena Wybraniec, CEO & Founder | Gdańsk | Aplikacja PFR Future of Health 2026
+
  
 ### Slajd 2 — Problem
  
@@ -33,6 +35,7 @@ Magdalena Wybraniec, CEO & Founder | Gdańsk | Aplikacja PFR Future of Health 20
 - **HUH = data backbone** (30 000+ medical record sources, 30+ device integrations, AI clinical layer dla biomarkerów). 
 - **xKinesi w Gdańsku = środowisko walidacyjne** (test bed + R&D lab z prawdziwymi pacjentami, danymi i wynikami)
 
+
 ### Slajd 4 — Technologia 
  
 - **Clinical Protocol Engine** — walidowane protokoły (ortopedyczne, fizjoterapeutyczne, longevity-specific), szablony retestów, decyzyjne ścieżki kliniczne. IP w klinicznej wiedzy, nie w generic AI.
@@ -44,12 +47,12 @@ Magdalena Wybraniec, CEO & Founder | Gdańsk | Aplikacja PFR Future of Health 20
  
 Diagram trzech warstw z HUH jako fundamentem: **dane** (wearables + polskie laby + obrazowanie + treningi) → **HUH data backbone** (storage, sync, baseline analytics) → **warstwa xKinesi** (Clinical Protocol Engine + Polish Data Adapters + Movement Intelligence) → **konsylium / klient / dashboard / klinika partnerska**. Jeden flow, jasny podział "co kupujemy gotowe / co budujemy / co partnerujemy".
  
- 
 | Faza | Rok | Co budujemy | HUH rola |
 |---|---|---|---|
 | **Faza 1 — Build on HUH** | 1–3 | Własne integracje (Fitatu, Hevy Coach, Kinvent, polskie laby Diagnostyka/Synevo/ALAB, AiKYNETIX) jako warstwa do HUH przez ich API. Clinical Protocol Engine + Movement Intelligence — własny kod, własna baza | Data backbone (commodity) |
 | **Faza 2 — Own UI, HUH as data source** | 3–5 | Zaciągamy dane z HUH do naszej apki. Własny frontend, własna logika, własny dashboard. HUH wymienialny | Data source przez API (jak każdy inny vendor) |
 | **Faza 3 — Full own platform** | 5+ | Własne wearables sync, własne integracje. HUH out | — |
+
  
 ### Slajd 5 — Rynek
  
@@ -60,7 +63,18 @@ Diagram trzech warstw z HUH jako fundamentem: **dane** (wearables + polskie laby
 - **Geograficzna luka:** 97,8% kapitału longevity zainwestowane w NA. Europa = first-mover advantage dla regulatory-compliant produktu
 - Polska: prywatne wydatki na zdrowie 54,7 mld zł, +22% r/r (Lux Med +17%, Diagnostyka SA +23%)
 - **Benchmark globalny:** Function Health = $2,5B valuation (50k members × $365/rok ≈ $18M ARR), ale tylko labs + MRI. Zero movement, zero EU, zero polskich integracji.
-### Slajd 6 — Konkurencja
+
+
+### Slajd 6 — Timing/Dynamika rynku
+ 
+- PARP - longevity - megatrend
+- ostatenie wzrosty w longevity i trendy
+- wzrost przychodów
+- w polsce moment przełamania - first mover
+  
+
+
+### Slajd 7 — Konkurencja
  
 **Każda warstwa xKinesi = jasny gap u istniejącego gracza. Nikt nie ma wszystkich trzech.**
  
@@ -75,24 +89,12 @@ Diagram trzech warstw z HUH jako fundamentem: **dane** (wearables + polskie laby
 | **Rehasport (Medicover)** | ortopedia sportowa | ✅ | ✅ | Brak diagnostyki wyprzedzającej, brak AI |
 | **Swissmed Health** (Gdańsk) | ❌ | częściowo | ✅ | Ultra-wealthy, brak ciągłości danych |
  
-**xKinesi = jedyna z trzema warstwami: clinical protocols z movement core + Polish data layer + Movement Intelligence + EU compliance + xKinesi-clinic jako environment walidacyjny.**
+**xKinesi = jedyna z trzema warstwami: clinical protocols z movement core + Polish data layer + Movement Intelligence + EU compliance + xKinesi-clinic jako environment walidacyjny.** 
+
  
-### Slajd 7 — Traction & 12-month execution plan
+### Slajd 8 — Model biznesowy 
  
-**Wdrożenie i komercjalizacja w 12 miesiącach: V 2026 → V 2027. Klinika operacyjna, pierwsze pakiety, walidacja kliniczna trzech warstw, 2 kliniki testują w 6 miesiącu, 4 w 12 miesiącu.** *(Mapowanie 1:1 do § 3 ust. 9 pkt 3 regulaminu PFR FoH: "potencjał aplikacyjny w ciągu 12 m-cy".)*
- 
-| Kwartał | Milestone | Dowód |
-|---|---|---|
-| **Q2 2026 (V–VI)** | Klinika operacyjna Gdańsk, pilotaż walidacyjny (5 klientów) | Sprzęt (Kinvent, EMS, BFR, Tanita, WHOOP, Oura, CGM), strona xkinesi.com, zespół 7 specjalistów, LOI z partnerami: Nieborowice, Diagnostyka S.A., Medalion.AI, PJATK |
-| **Q3 2026 (VII–IX)** |  pierwsi 3–5 płatnych klientów longevity | Pisemne LOI w aplikacji + pierwsze MRR |
-| **Q4 2026 (X–XII)** | Polish Data Adapters MVP (Fitatu, Hevy Coach API, polskie laby), Clinical Protocol Engine v1 (3–5 protokołów), Movement Intelligence Pipeline v1 (Kinvent + AiKYNETIX) | Działający POC + retesty pilotażowych klientów |
-| **Q1 2027 (I–III)** | **2 kliniki partnerskie testują platformę** (free pilot, ~6 mies. od startu), 8–12 stałych klientów longevity w xKinesi | MRR 60–120k PLN B2C + 2 klinik B2B w pilotażu |
-| **Q2 2027 (IV–V)** | **4 kliniki partnerskie testują platformę** (~12 mies. od startu), pierwsza umowa B2B płatna (z 2 pierwszych klinik), dataset description paper submission | 4 klinik B2B + 1 płacący B2B + manuscript w review |
- 
- 
-### Slajd 8 — Model biznesowy (PRODUKT NA SPRZEDAŻ = SaaS dla klinik)
- 
-**Produkt na sprzedaż dla VC = SaaS Platform dla klinik longevity/preventive medicine w PL/CEE/EU. Klinika xKinesi w Trójmieście to environment walidacyjny + prywatny cashflow obok, nie produkt na sprzedaż.**
+**Produkt na sprzedaż = SaaS Platform dla klinik longevity/preventive medicine w PL/CEE/EU. Klinika xKinesi w Trójmieście to środowisko walidacyjne + prywatny cashflow obok.**
  
 #### Cashflow operacyjny (poza modelem SaaS — wspomniany dla pełnego obrazu)
  
@@ -101,7 +103,7 @@ Diagram trzech warstw z HUH jako fundamentem: **dane** (wearables + polskie laby
 - *Te strumienie pokrywają operating costs kliniki + walidują produkt — nie są obietnicą skalowania dla VC*
 #### Model SaaS — produkt na sprzedaż (to, na czym VC zarabiają)
  
-**Cennik propozycja (do walidacji w fazie negocjacji z klinikami):**
+**Cennik:**
  
 | Tier | Cena/m | Klienci klin. | Co dostaje |
 |---|---|---|---|
@@ -118,11 +120,7 @@ Diagram trzech warstw z HUH jako fundamentem: **dane** (wearables + polskie laby
 - **Rok 4:** 30–50 klinik PL/CEE = MRR 200–400k PLN
 - **Rok 5+:** 50–100 klinik w CEE/EU = MRR 500k–1,5 mln PLN = **ARR 6–18 mln PLN**
 **Realistyczny ARR Rok 5: 6–18 mln PLN.** Solidny exit 30–150 mln PLN przy 5–8× multiple ARR. Unicorn potential w Y8–10 jeśli pełna skala EU.
- 
-#### ⚠️ Kluczowe założenie do umowy z HUH (do negocjacji)
- 
-Model SaaS dla 50–100 klinik w CEE/EU wymaga **enterprise umowy z HUH** (nie standardowy cennik klient po kliencie). Inaczej cost of goods rośnie liniowo z liczbą klinik i marża spada. **Negocjacja enterprise z HUH = jeden z critical milestones Roku 2.**
- 
+  
 ### Slajd 9 — Go-to-market
  
 **Kanały aktywne:**
@@ -139,16 +137,17 @@ Model SaaS dla 50–100 klinik w CEE/EU wymaga **enterprise umowy z HUH** (nie s
 - Obecność w CityFit Olivia + treningi medyczne 1:1 + organic feed do longevity
 - Customer journey map (Service Design): w produkcji [appendix]
 
-### Slajd 10 — Walidacja & nauka
+### Slajd 10 Trakcja i prognozy
  
-**Naukowa walidacja od dnia 1 — to nasz moat regulacyjny.**
+**Wdrożenie i komercjalizacja w 12 miesiącach: V 2026 → V 2027. Klinika operacyjna, pierwsze pakiety, walidacja kliniczna trzech warstw, 2 kliniki testują w 6 miesiącu, 4 w 12 miesiącu.** *(Mapowanie 1:1 do § 3 ust. 9 pkt 3 regulaminu PFR FoH: "potencjał aplikacyjny w ciągu 12 m-cy".)*
  
-- Partnerstwo akademickie: **PJATK Gdańsk** (kierunek Health+AI od jesieni 2026, magisterki, joint research)
-- **Klinika Nieborowice** — drugi hub fizyczny, real-world clinical environment
-- Plan publikacji: pierwsza submission Q3/Q4 2027 (longevity outcomes z xKinesi cohort)
-- Scientific Advisory Board (warunkowo): **dr Aleksander Obuchowski** (Medalion Tech / Eskulap), **dr Barbara Klaudel** (TheLion.AI, AI in Medicine, GUMed/UCK)
-- Compliance roadmap: GDPR-first (Faza 1), EU MDR Class IIa preparation (Faza 2)
-- Real-world evidence z 30+ klientami × 6+ mies. = defendable IP w Fazie 2
+| Kwartał | Milestone | Dowód |
+|---|---|---|
+| **Q2 2026 (V–VI)** | Klinika operacyjna Gdańsk, pilotaż walidacyjny (5 klientów) | Sprzęt (Kinvent, EMS, BFR, Tanita, WHOOP, Oura, CGM), strona xkinesi.com, zespół 7 specjalistów, LOI z partnerami: Nieborowice, Diagnostyka S.A., Medalion.AI, PJATK |
+| **Q3 2026 (VII–IX)** |  pierwsi 3–5 płatnych klientów longevity | Pisemne LOI w aplikacji + pierwsze MRR |
+| **Q4 2026 (X–XII)** | Polish Data Adapters MVP (Fitatu, Hevy Coach API, polskie laby), Clinical Protocol Engine v1 (3–5 protokołów), Movement Intelligence Pipeline v1 (Kinvent + AiKYNETIX) | Działający POC + retesty pilotażowych klientów |
+| **Q1 2027 (I–III)** | **2 kliniki partnerskie testują platformę** (free pilot, ~6 mies. od startu), 8–12 stałych klientów longevity w xKinesi | MRR 60–120k PLN B2C + 2 klinik B2B w pilotażu |
+| **Q2 2027 (IV–V)** | **4 kliniki partnerskie testują platformę** (~12 mies. od startu), pierwsza umowa B2B płatna (z 2 pierwszych klinik), dataset description paper submission | 4 klinik B2B + 1 płacący B2B + manuscript w review |
 
 ### Slajd 11 — Zespół
  
@@ -166,7 +165,7 @@ Model SaaS dla 50–100 klinik w CEE/EU wymaga **enterprise umowy z HUH** (nie s
 - **Piotr Zieliński** — ETL / Ops / Data Science (rola TBD, wchodzi w okolicach rundy)
 **Clinical team (kontraktowo):** ortopeda dr n. med., fizjoterapeuta, endokrynolożki ×2, dietetyczka kliniczna dr n. med., psycholożka sportowa, coach zmiany — 7 specjalistów
  
-### Slajd 12 — Round (bez wyceny — wycena 1:1 z funduszami)
+### Slajd 12 — Runda
  
 **Round size: 5 mln PLN (seed/pre-seed) sought from VC partners via PFR FoH Business Mixer (22–23.06.2026).** Lead ticket: 2–3 mln. Co-invest / syndicate: 2–2,5 mln.
  
