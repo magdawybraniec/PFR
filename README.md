@@ -19,18 +19,20 @@ Magdalena Wybraniec, CEO & Founder | Gdańsk | Aplikacja PFR Future of Health 20
 **Choroby cywilizacyjne rozwijają się latami. Standardowa medycyna wykrywa je, kiedy już są.**
  
 - Polska wydaje na profilaktykę 21× mniej niż Niemcy (€21,6 vs €457,7 / mieszkańca)
-- Klient premium w Trójmieście jest swoim własnym detektywem między gabinetami: ortopeda, internista, dietetyk, trener — żaden nie widzi pełnego obrazu
-- Brak produktu łączącego ruch, ciągłe dane i medycynę kliniczną (cytat: PARP 2025: "longevity = megatrend, brakuje produktu łączącego ruch, dane i medycynę")
+- Klient jest własnym detektywem między gabinetami: ortopeda, internista, dietetyk, trener - latami można nie znaleźć odpowiedzi i tracić możliwości - praca, życie rodzinne, społeczne, zdrowie i obciążenie tym państwa,
+- Brak produktu łączącego wszystkie dane zdrowotne, ale z podejściem medycyny wyprzedzającej i medycyny stylu życia oraz longevity - ruch, ciągłe dane i medycynę kliniczną (cytat: PARP 2025: "longevity = megatrend, brakuje produktu łączącego ruch, dane i medycynę")
 - Wynik: dług zdrowotny 40+ kadry zarządzającej, której zdrowie zostało zamienione na pieniądze
+
 ### Slajd 3 — Rozwiązanie
  
 **Trzy warstwy nad sprawdzoną infrastrukturą HUH — clinical platform, której nie zrobi żaden globalny gracz.**
  
-- **Warstwa 1 — Biblioteka Protokołów Longevity** (movement core, Kinvent / force plates / Biodex, RTP, ortopedia + fizjo + longevity): standaryzowane protokoły walidowane klinicznie — czego HUH nie ma w ogóle, Function Health też nie
-- **Warstwa 2 — Polski Layer Integracji** (Diagnostyka SA, ALAB, Synevo, Fitatu, polski medyczny LLM Eskulap, GDPR-first, EU Sovereign AI): regulatory & data moat na rynku europejskim
+- **Warstwa 1 — Biblioteka Protokołów Longevity** (protokoły disgnostyczne - urazowe, sprawnościowe, w tym sprzętami Kinvent oraz z badań krwi): standaryzowane protokoły walidowane klinicznie 
+- **Warstwa 2 — Polska Warstwa Integracji** (badania krwi - Diagnostyka SA, ALAB, Synevo, aplikacje - Fitatu, Heavy, potencjalnie polski medyczny LLM Eskulap, GDPR-first, EU Sovereign AI): regulatory & data moat na rynku europejskim
 - **Warstwa 3 — Movement Intelligence** (AiKYNETIX, Kinvent, postura/asymetrie/kompensacje): unikat globalny 
 - **HUH = data backbone** (30 000+ medical record sources, 30+ device integrations, AI clinical layer dla biomarkerów). 
-- **xKinesi w Gdańsku = environment walidacyjny** (test bed + R&D lab z prawdziwymi pacjentami, danymi i outcomes — czego nie zreplikuje konkurent SaaS)
+- **xKinesi w Gdańsku = środowisko walidacyjne** (test bed + R&D lab z prawdziwymi pacjentami, danymi i wynikami — czego nie zreplikuje konkurent SaaS)
+
 ### Slajd 4 — Technologia (do przepisania z Krzyśkiem na "technical-strong")
  
 **Stack defensible: clinical content + polskie integracje + movement intelligence. HUH zostaje data foundation, my budujemy warstwę której nikt globalnie nie obsługuje.**
