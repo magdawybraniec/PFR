@@ -38,14 +38,12 @@ Magdalena Wybraniec, CEO & Founder | Gdańsk | Aplikacja PFR Future of Health 20
 
 ### Slajd 4 — Technologia 
  
-- **Clinical Protocol Engine** — walidowane protokoły (ortopedyczne, fizjoterapeutyczne, longevity-specific), szablony retestów, decyzyjne ścieżki kliniczne. IP w klinicznej wiedzy, nie w generic AI.
-- **Polish Data Adapters** — Diagnostyka SA, ALAB, Synevo, Fitatu (start: CSV import, target: API access przez relację z CEO), Hevy Coach API.
-- **Movement Intelligence Pipeline** — Kinvent K-FORCE plates + Blaze Pod + AiKYNETIX (computer vision **kupowany jako vendor**, nie budowany własny) → asymetrie, kompensacje, postura, RTP protocols. Connection do biomarker data = unique health story.
-- **WHOOP* pipeline
+- **Longevity Protocol Engine** — walidowane protokoły (ortopedyczne, fizjoterapeutyczne, longevity-specific), szablony retestów, decyzyjne ścieżki kliniczne. 
+- **Polish Data Adapters** — Diagnostyka, ALAB, Synevo, WHOOP, Fitatu (start: CSV import, target: API access przez relację z CEO), Hevy Coach API.
+- **Movement Intelligence Pipeline** — Kinvent K-FORCE plates + Blaze Pod + AiKYNETIX → asymetrie, kompensacje, postura. 
 - **HUH integration** — 30+ wearables i 30 000+ medical record sources już rozwiązane przez HUH. Nasza warstwa pisze webhooks/API w jedną i drugą stronę.
 - **Compliance & moat** — GDPR-first, EU MDR Class IIa preparation (Faza 2), EU Sovereign AI compliance trend 2026.
  
-Diagram trzech warstw z HUH jako fundamentem: **dane** (wearables + polskie laby + obrazowanie + treningi) → **HUH data backbone** (storage, sync, baseline analytics) → **warstwa xKinesi** (Clinical Protocol Engine + Polish Data Adapters + Movement Intelligence) → **konsylium / klient / dashboard / klinika partnerska**. Jeden flow, jasny podział "co kupujemy gotowe / co budujemy / co partnerujemy".
  
 | Faza | Rok | Co budujemy | HUH rola |
 |---|---|---|---|
