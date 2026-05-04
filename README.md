@@ -33,16 +33,13 @@ Magdalena Wybraniec, CEO & Founder | Gdańsk | Aplikacja PFR Future of Health 20
 - **HUH = data backbone** (30 000+ medical record sources, 30+ device integrations, AI clinical layer dla biomarkerów). 
 - **xKinesi w Gdańsku = środowisko walidacyjne** (test bed + R&D lab z prawdziwymi pacjentami, danymi i wynikami — czego nie zreplikuje konkurent SaaS)
 
-### Slajd 4 — Technologia (do przepisania z Krzyśkiem)
- 
-**Stack defensible: clinical content + polskie integracje + movement intelligence. HUH zostaje jako baza, my budujemy warstwę której nikt globalnie nie obsługuje.**
+### Slajd 4 — Technologia 
  
 - **Clinical Protocol Engine** — walidowane protokoły (ortopedyczne, fizjoterapeutyczne, longevity-specific), szablony retestów, decyzyjne ścieżki kliniczne. IP w klinicznej wiedzy, nie w generic AI.
 - **Polish Data Adapters** — Diagnostyka SA, ALAB, Synevo, Fitatu (start: CSV import, target: API access przez relację z CEO), Hevy Coach API.
-- **Movement Intelligence Pipeline** — Kinvent K-FORCE plates + Blaze Pod (do walidacji) + AiKYNETIX (computer vision **kupowany jako vendor**, nie budowany własny) → asymetrie, kompensacje, postura, RTP protocols. Connection do biomarker data = unique health story.
+- **Movement Intelligence Pipeline** — Kinvent K-FORCE plates + Blaze Pod + AiKYNETIX (computer vision **kupowany jako vendor**, nie budowany własny) → asymetrie, kompensacje, postura, RTP protocols. Connection do biomarker data = unique health story.
 - **WHOOP* pipeline
 - **HUH integration** — 30+ wearables i 30 000+ medical record sources już rozwiązane przez HUH. Nasza warstwa pisze webhooks/API w jedną i drugą stronę.
-- **Warunkowo (jeśli partnership z TheLion.AI):** polski medyczny LLM (Eskulap) jako reasoning engine. Do walidacji technicznej z Aleksem czy da się wpiąć do HUH — otwarte pytanie.
 - **Compliance & moat** — GDPR-first, EU MDR Class IIa preparation (Faza 2), EU Sovereign AI compliance trend 2026.
 
 ### Slajd 4b — System Architecture (Krzysiek dorabia)
@@ -51,20 +48,11 @@ Diagram trzech warstw z HUH jako fundamentem: **dane** (wearables + polskie laby
  
 ### Slajd 4c — Build → Own Roadmap (HUH dependency: świadoma, czasowa, zaplanowana)
  
-**HUH dziś = AWS przed kupnem własnych serwerów. Sensowne, dopóki tanio i działa. IP od dnia 1 po naszej stronie.**
- 
 | Faza | Rok | Co budujemy | HUH rola |
 |---|---|---|---|
 | **Faza 1 — Build on HUH** | 1–3 | Własne integracje (Fitatu, Hevy Coach, Kinvent, polskie laby Diagnostyka/Synevo/ALAB, AiKYNETIX) jako warstwa do HUH przez ich API. Clinical Protocol Engine + Movement Intelligence — własny kod, własna baza | Data backbone (commodity) |
 | **Faza 2 — Own UI, HUH as data source** | 3–5 | Zaciągamy dane z HUH do naszej apki. Własny frontend, własna logika, własny dashboard. HUH wymienialny | Data source przez API (jak każdy inny vendor) |
 | **Faza 3 — Full own platform** | 5+ | Własne wearables sync, własne integracje. HUH out | — |
- 
-**Co jest naszym IP od dnia 1 (czego HUH nie ma i nigdy nie zbuduje):**
-- Clinical protocols z movement core (Kinvent + Blaze Pod + AiKYNETIX integration)
-- Polish Data Layer (Diagnostyka, Synevo, ALAB, Fitatu, Hevy)
-- Movement Intelligence Pipeline (force plates → outcomes layer)
-- (Warunkowo, jeśli partnership z TheLion.AI dojdzie do skutku) polski medyczny LLM jako reasoning engine
-**Migration plan Faza 1→2:** zaplanowany, nie panika. Architektura od dnia 1 zakłada HUH jako wymienialne data source (abstraction layer).
  
 ### Slajd 5 — Rynek
  
@@ -74,8 +62,6 @@ Diagram trzech warstw z HUH jako fundamentem: **dane** (wearables + polskie laby
 - CAGR klinik wellness/longevity: 11% — najszybciej rosnący segment
 - **Geograficzna luka:** 97,8% kapitału longevity zainwestowane w NA. Europa = first-mover advantage dla regulatory-compliant produktu
 - Polska: prywatne wydatki na zdrowie 54,7 mld zł, +22% r/r (Lux Med +17%, Diagnostyka SA +23%)
-- Trójmiasto: 2 000–3 000 osób z dochodem 500k+ PLN/rok, 150–300 gotowych klientów longevity
-- **Zero klinik longevity w Trójmieście — pełna luka first-movera**
 - **Benchmark globalny:** Function Health = $2,5B valuation (50k members × $365/rok ≈ $18M ARR), ale tylko labs + MRI. Zero movement, zero EU, zero polskich integracji.
 ### Slajd 6 — Konkurencja
  
@@ -158,6 +144,7 @@ Model SaaS dla 50–100 klinik w CEE/EU wymaga **enterprise umowy z HUH** (nie s
 **Cashflow B2C (paralelnie do GTM):**
 - Obecność w CityFit Olivia + treningi medyczne 1:1 + organic feed do longevity
 - Customer journey map (Service Design): w produkcji [appendix]
+
 ### Slajd 10 — Walidacja & nauka
  
 **Naukowa walidacja od dnia 1 — to nasz moat regulacyjny.**
