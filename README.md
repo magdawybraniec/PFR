@@ -85,9 +85,6 @@ Diagram trzech warstw z HUH jako fundamentem: **dane** (wearables + polskie laby
 | **Biograph** (USA premium) | ❌ MRI+labs | ❌ ZERO | ❌ US-only | Niszowy luxury, brak skalowania |
 | **Forward Health** (padł XI 2024) | ❌ | ❌ | ❌ | Cautionary tale — execution > hype |
 | **Longevity+ (Diagnostyka SA)** | ❌ | ✅ częściowo | ✅ | Tylko labs, brak treningu/AI/EU SaaS |
-| **NAMI / Garden Clinic / Good Life** (PL) | ❌ | częściowo | ✅ | Wellness, brak medycyny longevity |
-| **Rehasport (Medicover)** | ortopedia sportowa | ✅ | ✅ | Brak diagnostyki wyprzedzającej, brak AI |
-| **Swissmed Health** (Gdańsk) | ❌ | częściowo | ✅ | Ultra-wealthy, brak ciągłości danych |
  
 **xKinesi = jedyna z trzema warstwami: clinical protocols z movement core + Polish data layer + Movement Intelligence + EU compliance + xKinesi-clinic jako environment walidacyjny.** 
 
@@ -111,7 +108,6 @@ Diagram trzech warstw z HUH jako fundamentem: **dane** (wearables + polskie laby
 | **Professional** | 3 000 PLN | do 50 | + Movement Intelligence + AiKYNETIX integration |
 | **Enterprise** | "Let's talk" (5 000–15 000+ PLN) | 100+ | + custom workflows + white label + dedicated CSM |
  
-
  
 **Roadmapa SaaS:**
 - **Rok 1 (V 2026 – V 2027):** 4 kliniki w pilotażu free, **1 płacąca klinika do końca roku 1**
@@ -127,12 +123,11 @@ Diagram trzech warstw z HUH jako fundamentem: **dane** (wearables + polskie laby
 **Kanały aktywne:**
 - **LinkedIn** — posty eksperckie o biomarkerach, diagnostyce, longevity, ruchu; budowanie bazy decydentów Trójmiasto + sieć ogólnopolska
 - **śniadania longevity + AI** — 8–10 zaproszonych decydentów, sala w hotelu/coworkingu (~300 PLN), prezentacja "czego standardowe badania nie wykrywają"
-- **Konferencje branżowe** — uczestnik (year 1) + prezentujący (year 2): Medical AI, Infoshare, EHRA, Polish ML Community, longevity events
+- **Konferencje i targi branżowe** — uczestnik (year 1) + prezentujący (year 2): Medical AI, Infoshare, EHRA, Polish ML Community, longevity events
 - **Networking** — kadra korporacji, lekarze, trenerzy jako connectorzy
 - **PJATK** — partnerstwo akademickie (kierunek Health+AI od jesieni), magisterki, dostęp do kadry i studentów
 - **Kooperacje z lekarzami** — ortopedzi, fizjoterapeuci, internistzy w Trójmieście jako kanał B2C (referrale) i przyszli B2B klienci platformy
 - **Influencer brand ambassadorship** — pipeline (Jędrzejczyk lub Grzyb jako kandydaci) na year 1+
-- **Targi w Gdańsku** — obecność, prezentacja, networking
 - **Klinka partnerska Nieborowice** — drugi hub, pipeline pacjentów po endoprotezach do programu longevity
 
 
@@ -143,10 +138,10 @@ Diagram trzech warstw z HUH jako fundamentem: **dane** (wearables + polskie laby
 | Kwartał | Milestone | Dowód |
 |---|---|---|
 | **Q2 2026 (V–VI)** | Klinika operacyjna Gdańsk, pilotaż walidacyjny (5 klientów) | Sprzęt (Kinvent, EMS, BFR, Tanita, WHOOP, Oura, CGM), strona xkinesi.com, zespół 7 specjalistów, LOI z partnerami: Nieborowice, Diagnostyka S.A., Medalion.AI, PJATK |
-| **Q3 2026 (VII–IX)** |  pierwsi 3–5 płatnych klientów longevity | Pisemne LOI w aplikacji + pierwsze MRR |
-| **Q4 2026 (X–XII)** | Polish Data Adapters MVP (Fitatu, Hevy Coach API, polskie laby), Clinical Protocol Engine v1 (3–5 protokołów), Movement Intelligence Pipeline v1 (Kinvent + AiKYNETIX) | Działający POC + retesty pilotażowych klientów |
-| **Q1 2027 (I–III)** | **2 kliniki partnerskie testują platformę** (free pilot, ~6 mies. od startu), 8–12 stałych klientów longevity w xKinesi | MRR 60–120k PLN B2C + 2 klinik B2B w pilotażu |
-| **Q2 2027 (IV–V)** | **4 kliniki partnerskie testują platformę** (~12 mies. od startu), pierwsza umowa B2B płatna (z 2 pierwszych klinik), dataset description paper submission | 4 klinik B2B + 1 płacący B2B + manuscript w review |
+| **Q3 2026 (VII–IX)** | Pierwsi płacący klienci longevity | + pierwsze MRR |
+| **Q4 2026 (X–XII)** | Polish Data Adapters MVP (Fitatu, Hevy Coach API, polskie wyniki badań), Longevity Protocol Engine v1, Movement Intelligence Pipeline v1 (Kinvent + AiKYNETIX) | Działający POC + retesty pilotażowych klientów |
+| **Q1 2027 (I–III)** | **2 kliniki partnerskie testują platformę** (free pilot), 8–12 stałych klientów longevity w xKinesi | MRR 60–120k PLN B2C + 2 klinik B2B w pilotażu |
+| **Q2 2027 (IV–V)** | **4 kliniki partnerskie testują platformę** , pierwsza umowa B2B płatna, dataset description paper submission | 4 klinik B2B + 1 płacący B2B + manuscript w review |
 
 ### Slajd 11 — Zespół
  
