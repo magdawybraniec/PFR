@@ -16,7 +16,7 @@ Magdalena Wybraniec, CEO & Founder | Gdańsk | Aplikacja PFR Future of Health 20
  
 ### Slajd 2 — Problem
  
-**Choroby cywilizacyjne rozwijają się latami. Standardowa medycyna wykrywa je, kiedy już są.**
+**Utrata lat efektywności poprzez brak skonsolidowanego systemu opieki zdrowotnej rozczłonkowanie porad specjalistów, brak jednego systemu danych i brak spójnego systemu naprawy, brak systemu angażującego medycynę wyprzedzającą i medycynę stylu życia - zapobieganie i edukację**
  
 - Polska wydaje na profilaktykę 21× mniej niż Niemcy (€21,6 vs €457,7 / mieszkańca)
 - Klient jest własnym detektywem między gabinetami: ortopeda, internista, dietetyk, trener - latami można nie znaleźć odpowiedzi i tracić możliwości - praca, życie rodzinne, społeczne, zdrowie i obciążenie tym państwa,
@@ -28,10 +28,10 @@ Magdalena Wybraniec, CEO & Founder | Gdańsk | Aplikacja PFR Future of Health 20
 **Trzy warstwy nad sprawdzoną infrastrukturą HUH — clinical platform, której nie zrobi żaden globalny gracz.**
  
 - **Warstwa 1 — Biblioteka Protokołów Longevity** (protokoły disgnostyczne - urazowe, sprawnościowe, w tym sprzętami Kinvent oraz z badań krwi): standaryzowane protokoły walidowane klinicznie 
-- **Warstwa 2 — Polska Warstwa Integracji** (badania krwi - Diagnostyka SA, ALAB, Synevo, aplikacje - Fitatu, Heavy, potencjalnie polski medyczny LLM Eskulap, GDPR-first, EU Sovereign AI): regulatory & data moat na rynku europejskim
+- **Warstwa 2 — Polska Warstwa Integracji** (badania krwi - Diagnostyka SA, ALAB, Synevo, aplikacje - Fitatu, Heavy, potencjalnie polski medyczny LLM Eskulap, GDPR-first, EU Sovereign AI)
 - **Warstwa 3 — Movement Intelligence** (AiKYNETIX, Kinvent, postura/asymetrie/kompensacje): unikat globalny 
 - **HUH = data backbone** (30 000+ medical record sources, 30+ device integrations, AI clinical layer dla biomarkerów). 
-- **xKinesi w Gdańsku = środowisko walidacyjne** (test bed + R&D lab z prawdziwymi pacjentami, danymi i wynikami — czego nie zreplikuje konkurent SaaS)
+- **xKinesi w Gdańsku = środowisko walidacyjne** (test bed + R&D lab z prawdziwymi pacjentami, danymi i wynikami)
 
 ### Slajd 4 — Technologia 
  
@@ -83,13 +83,12 @@ Diagram trzech warstw z HUH jako fundamentem: **dane** (wearables + polskie laby
  
 | Kwartał | Milestone | Dowód |
 |---|---|---|
-| **Q2 2026 (V–VI)** | Klinika operacyjna Gdańsk, pilotaż walidacyjny (5 klientów) | Sprzęt zakontraktowany (Kinvent, EMS, BFR, Tanita, WHOOP, Oura, CGM), strona xkinesi.com, zespół 7 specjalistów |
-| **Q3 2026 (VII–IX)** | LOI z partnerami: Nieborowice, Diagnostyka S.A., Medalion.AI, PJATK + pierwsi 3–5 płatnych klientów longevity | Pisemne LOI w aplikacji + pierwsze MRR |
-| **Q4 2026 (X–XII)** | Polish Data Adapters MVP (Fitatu CSV→API, Hevy Coach API, polskie laby), Clinical Protocol Engine v1 (3–5 protokołów), Movement Intelligence Pipeline v1 (Kinvent + AiKYNETIX) | Działający POC + retesty pilotażowych klientów |
+| **Q2 2026 (V–VI)** | Klinika operacyjna Gdańsk, pilotaż walidacyjny (5 klientów) | Sprzęt (Kinvent, EMS, BFR, Tanita, WHOOP, Oura, CGM), strona xkinesi.com, zespół 7 specjalistów, LOI z partnerami: Nieborowice, Diagnostyka S.A., Medalion.AI, PJATK |
+| **Q3 2026 (VII–IX)** |  pierwsi 3–5 płatnych klientów longevity | Pisemne LOI w aplikacji + pierwsze MRR |
+| **Q4 2026 (X–XII)** | Polish Data Adapters MVP (Fitatu, Hevy Coach API, polskie laby), Clinical Protocol Engine v1 (3–5 protokołów), Movement Intelligence Pipeline v1 (Kinvent + AiKYNETIX) | Działający POC + retesty pilotażowych klientów |
 | **Q1 2027 (I–III)** | **2 kliniki partnerskie testują platformę** (free pilot, ~6 mies. od startu), 8–12 stałych klientów longevity w xKinesi | MRR 60–120k PLN B2C + 2 klinik B2B w pilotażu |
 | **Q2 2027 (IV–V)** | **4 kliniki partnerskie testują platformę** (~12 mies. od startu), pierwsza umowa B2B płatna (z 2 pierwszych klinik), dataset description paper submission | 4 klinik B2B + 1 płacący B2B + manuscript w review |
  
-**Walidacyjny benchmark globalny:** Function Health w pierwszym roku robił beta + waitlist, skalowali w roku 2. xKinesi w pierwszym roku = walidacja kliniczna trzech warstw + first paid clients B2C + 4 kliniki B2B w pilotażu + pierwsza umowa B2B płatna. Znana mechanika, niski risk.
  
 ### Slajd 8 — Model biznesowy (PRODUKT NA SPRZEDAŻ = SaaS dla klinik)
  
@@ -126,18 +125,16 @@ Model SaaS dla 50–100 klinik w CEE/EU wymaga **enterprise umowy z HUH** (nie s
  
 ### Slajd 9 — Go-to-market
  
-**Pchamy się wszędzie z pokazywaniem produktu — szeroka strategia widoczności, nie wąski concierge.**
- 
 **Kanały aktywne:**
 - **LinkedIn** — posty eksperckie o biomarkerach, diagnostyce, longevity, ruchu; budowanie bazy decydentów Trójmiasto + sieć ogólnopolska
-- **Zamknięte śniadania longevity + AI** — 8–10 zaproszonych decydentów, sala w hotelu/coworkingu (~300 PLN), prezentacja "czego standardowe badania nie wykrywają"
+- **śniadania longevity + AI** — 8–10 zaproszonych decydentów, sala w hotelu/coworkingu (~300 PLN), prezentacja "czego standardowe badania nie wykrywają"
 - **Konferencje branżowe** — uczestnik (year 1) + prezentujący (year 2): Medical AI, Infoshare, EHRA, Polish ML Community, longevity events
 - **Networking** — kadra korporacji, lekarze, trenerzy jako connectorzy
 - **PJATK** — partnerstwo akademickie (kierunek Health+AI od jesieni), magisterki, dostęp do kadry i studentów
 - **Kooperacje z lekarzami** — ortopedzi, fizjoterapeuci, internistzy w Trójmieście jako kanał B2C (referrale) i przyszli B2B klienci platformy
 - **Influencer brand ambassadorship** — pipeline (Jędrzejczyk lub Grzyb jako kandydaci) na year 1+
 - **Targi w Gdańsku** — obecność, prezentacja, networking
-- **Klinka partnerska Nieborowice** (warunkowo) — drugi hub, pipeline pacjentów po endoprotezach do programu longevity
+- **Klinka partnerska Nieborowice** — drugi hub, pipeline pacjentów po endoprotezach do programu longevity
 **Cashflow B2C (paralelnie do GTM):**
 - Obecność w CityFit Olivia + treningi medyczne 1:1 + organic feed do longevity
 - Customer journey map (Service Design): w produkcji [appendix]
@@ -147,19 +144,17 @@ Model SaaS dla 50–100 klinik w CEE/EU wymaga **enterprise umowy z HUH** (nie s
 **Naukowa walidacja od dnia 1 — to nasz moat regulacyjny.**
  
 - Partnerstwo akademickie: **PJATK Gdańsk** (kierunek Health+AI od jesieni 2026, magisterki, joint research)
-- **Klinika Nieborowice** (warunkowo) — drugi hub fizyczny, pacjenci po endoprotezach jako pipeline longevity, real-world clinical environment
+- **Klinika Nieborowice** — drugi hub fizyczny, real-world clinical environment
 - Plan publikacji: pierwsza submission Q3/Q4 2027 (longevity outcomes z xKinesi cohort)
 - Scientific Advisory Board (warunkowo): **dr Aleksander Obuchowski** (Medalion Tech / Eskulap), **dr Barbara Klaudel** (TheLion.AI, AI in Medicine, GUMed/UCK)
 - Compliance roadmap: GDPR-first (Faza 1), EU MDR Class IIa preparation (Faza 2)
 - Real-world evidence z 30+ klientami × 6+ mies. = defendable IP w Fazie 2
+
 ### Slajd 11 — Zespół
- 
-**Kombinacja, której konkurencja nie ma: biolożka + informatyczka + trener medyczny + tech leadership + data engineering + scientific advisory.**
  
 **Co-founders:**
 - **Magdalena Wybraniec** — CEO & Founder (biolożka 2006, informatyczka 2024, trening medyczny 2025, R&D Bioseco, trenerka MMA)
 - **Krzysztof Windorpski** — CTO & Co-founder (Engineering Management, Westwing, full-stack + AI, PJATK)
-
 
 **Scientific Advisory Board (LOI w toku):**
 - **dr Aleksander Obuchowski** — CTO Medalion Tech, twórca Eskulap (polski medyczny LLM)
