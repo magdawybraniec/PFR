@@ -41,12 +41,9 @@ Magdalena Wybraniec, CEO & Founder | Gdańsk | Aplikacja PFR Future of Health 20
 - **WHOOP* pipeline
 - **HUH integration** — 30+ wearables i 30 000+ medical record sources już rozwiązane przez HUH. Nasza warstwa pisze webhooks/API w jedną i drugą stronę.
 - **Compliance & moat** — GDPR-first, EU MDR Class IIa preparation (Faza 2), EU Sovereign AI compliance trend 2026.
-
-### Slajd 4b — System Architecture (Krzysiek dorabia)
  
 Diagram trzech warstw z HUH jako fundamentem: **dane** (wearables + polskie laby + obrazowanie + treningi) → **HUH data backbone** (storage, sync, baseline analytics) → **warstwa xKinesi** (Clinical Protocol Engine + Polish Data Adapters + Movement Intelligence) → **konsylium / klient / dashboard / klinika partnerska**. Jeden flow, jasny podział "co kupujemy gotowe / co budujemy / co partnerujemy".
  
-### Slajd 4c — Build → Own Roadmap (HUH dependency: świadoma, czasowa, zaplanowana)
  
 | Faza | Rok | Co budujemy | HUH rola |
 |---|---|---|---|
@@ -86,8 +83,8 @@ Diagram trzech warstw z HUH jako fundamentem: **dane** (wearables + polskie laby
  
 | Kwartał | Milestone | Dowód |
 |---|---|---|
-| **Q2 2026 (V–VI)** | Klinika operacyjna w Atrium Oliva, start pilotażu walidacyjnego (5 klientów) | Sprzęt zakontraktowany (Kinvent, EMS, BFR, Tanita, WHOOP, Oura, CGM), strona xkinesi.com live, zespół 7 specjalistów |
-| **Q3 2026 (VII–IX)** | LOI z partnerami: Nieborowice (warunkowo), TheLion.AI/Eskulap (warunkowo), PJATK + pierwsi 3–5 płatnych klientów longevity | Pisemne LOI w aplikacji + pierwsze MRR |
+| **Q2 2026 (V–VI)** | Klinika operacyjna Gdańsk, pilotaż walidacyjny (5 klientów) | Sprzęt zakontraktowany (Kinvent, EMS, BFR, Tanita, WHOOP, Oura, CGM), strona xkinesi.com, zespół 7 specjalistów |
+| **Q3 2026 (VII–IX)** | LOI z partnerami: Nieborowice, Diagnostyka S.A., Medalion.AI, PJATK + pierwsi 3–5 płatnych klientów longevity | Pisemne LOI w aplikacji + pierwsze MRR |
 | **Q4 2026 (X–XII)** | Polish Data Adapters MVP (Fitatu CSV→API, Hevy Coach API, polskie laby), Clinical Protocol Engine v1 (3–5 protokołów), Movement Intelligence Pipeline v1 (Kinvent + AiKYNETIX) | Działający POC + retesty pilotażowych klientów |
 | **Q1 2027 (I–III)** | **2 kliniki partnerskie testują platformę** (free pilot, ~6 mies. od startu), 8–12 stałych klientów longevity w xKinesi | MRR 60–120k PLN B2C + 2 klinik B2B w pilotażu |
 | **Q2 2027 (IV–V)** | **4 kliniki partnerskie testują platformę** (~12 mies. od startu), pierwsza umowa B2B płatna (z 2 pierwszych klinik), dataset description paper submission | 4 klinik B2B + 1 płacący B2B + manuscript w review |
@@ -162,13 +159,16 @@ Model SaaS dla 50–100 klinik w CEE/EU wymaga **enterprise umowy z HUH** (nie s
 **Co-founders:**
 - **Magdalena Wybraniec** — CEO & Founder (biolożka 2006, informatyczka 2024, trening medyczny 2025, R&D Bioseco, trenerka MMA)
 - **Krzysztof Windorpski** — CTO & Co-founder (Engineering Management, Westwing, full-stack + AI, PJATK)
-- **Piotr Zieliński** — ETL / Ops / Data Science (rola TBD, wchodzi w okolicach rundy)
+
+
 **Scientific Advisory Board (LOI w toku):**
 - **dr Aleksander Obuchowski** — CTO Medalion Tech, twórca Eskulap (polski medyczny LLM)
 - **dr Barbara Klaudel** — co-founder TheLion.AI, AI in Medicine, GUMed/UCK
+- 
 **Operations:**
 - **Iza Szulc** — Head of Grants & Compliance (ISO Manager, EU Funds Expert) — confirmed
 - **Monika Świątek-Jopek** — Service Design / UX Lead (joining post-funding)
+- **Piotr Zieliński** — ETL / Ops / Data Science (rola TBD, wchodzi w okolicach rundy)
 **Clinical team (kontraktowo):** ortopeda dr n. med., fizjoterapeuta, endokrynolożki ×2, dietetyczka kliniczna dr n. med., psycholożka sportowa, coach zmiany — 7 specjalistów
  
 ### Slajd 12 — Round (bez wyceny — wycena 1:1 z funduszami)
