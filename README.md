@@ -33,20 +33,18 @@ Magdalena Wybraniec, CEO & Founder | Gdańsk | Aplikacja PFR Future of Health 20
 - **HUH = data backbone** (30 000+ medical record sources, 30+ device integrations, AI clinical layer dla biomarkerów). 
 - **xKinesi w Gdańsku = środowisko walidacyjne** (test bed + R&D lab z prawdziwymi pacjentami, danymi i wynikami — czego nie zreplikuje konkurent SaaS)
 
-### Slajd 4 — Technologia (do przepisania z Krzyśkiem na "technical-strong")
+### Slajd 4 — Technologia (do przepisania z Krzyśkiem)
  
-**Stack defensible: clinical content + polskie integracje + movement intelligence. HUH zostaje data foundation, my budujemy warstwę której nikt globalnie nie obsługuje.**
+**Stack defensible: clinical content + polskie integracje + movement intelligence. HUH zostaje jako baza, my budujemy warstwę której nikt globalnie nie obsługuje.**
  
 - **Clinical Protocol Engine** — walidowane protokoły (ortopedyczne, fizjoterapeutyczne, longevity-specific), szablony retestów, decyzyjne ścieżki kliniczne. IP w klinicznej wiedzy, nie w generic AI.
 - **Polish Data Adapters** — Diagnostyka SA, ALAB, Synevo, Fitatu (start: CSV import, target: API access przez relację z CEO), Hevy Coach API.
 - **Movement Intelligence Pipeline** — Kinvent K-FORCE plates + Blaze Pod (do walidacji) + AiKYNETIX (computer vision **kupowany jako vendor**, nie budowany własny) → asymetrie, kompensacje, postura, RTP protocols. Connection do biomarker data = unique health story.
+- **WHOOP* pipeline
 - **HUH integration** — 30+ wearables i 30 000+ medical record sources już rozwiązane przez HUH. Nasza warstwa pisze webhooks/API w jedną i drugą stronę.
 - **Warunkowo (jeśli partnership z TheLion.AI):** polski medyczny LLM (Eskulap) jako reasoning engine. Do walidacji technicznej z Aleksem czy da się wpiąć do HUH — otwarte pytanie.
 - **Compliance & moat** — GDPR-first, EU MDR Class IIa preparation (Faza 2), EU Sovereign AI compliance trend 2026.
-**Co świadomie NIE robimy w 24 miesiącach** (żeby nie obiecać tego, co niewykonalne za 5 mln):
-- Własny computer vision (kupujemy AiKYNETIX jako vendor)
-- IKP / NFZ / e-recepta integration (regulacyjnie ciężkie, niewykonalne za 5 mln)
-- Własny medyczny LLM (warunkowo Eskulap przez TheLion.AI partnership, nie własny build)
+
 ### Slajd 4b — System Architecture (Krzysiek dorabia)
  
 Diagram trzech warstw z HUH jako fundamentem: **dane** (wearables + polskie laby + obrazowanie + treningi) → **HUH data backbone** (storage, sync, baseline analytics) → **warstwa xKinesi** (Clinical Protocol Engine + Polish Data Adapters + Movement Intelligence) → **konsylium / klient / dashboard / klinika partnerska**. Jeden flow, jasny podział "co kupujemy gotowe / co budujemy / co partnerujemy".
