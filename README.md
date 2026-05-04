@@ -98,10 +98,10 @@ Diagram trzech warstw z HUH jako fundamentem: **dane** (wearables + polskie laby
  
 #### Cashflow operacyjny (poza modelem SaaS — wspomniany dla pełnego obrazu)
  
-- **Pakiet Apex** (longevity B2C): 5 900 – 29 900 PLN/mies., target 8–15 stałych klientów do końca 12 mies. = MRR 80–200k PLN
-- **Treningi medyczne**: 200–250 PLN/sesja × 5–12 klientów = 8–20k PLN/mies.
-- *Te strumienie pokrywają operating costs kliniki + walidują produkt — nie są obietnicą skalowania dla VC*
-#### Model SaaS — produkt na sprzedaż (to, na czym VC zarabiają)
+- **Pakiety** (longevity B2C): 5 900 – 29 900 PLN/mies., target 8–15 stałych klientów do końca 12 mies. = MRR 80–200k PLN
+- *Te strumienie pokrywają operating costs kliniki + walidują produkt*
+
+#### Model SaaS — produkt na sprzedaż 
  
 **Cennik:**
  
