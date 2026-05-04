@@ -111,7 +111,7 @@ Diagram trzech warstw z HUH jako fundamentem: **dane** (wearables + polskie laby
 | **Professional** | 3 000 PLN | do 50 | + Movement Intelligence + AiKYNETIX integration |
 | **Enterprise** | "Let's talk" (5 000–15 000+ PLN) | 100+ | + custom workflows + white label + dedicated CSM |
  
-**Benchmark cennika:** HUH Professional = $250/m (40 klientów = $6,25/klient). Nasz Professional = 3000 PLN/m/40 klientów = ~$20/klient = **3× ponad HUH**. Klient płaci ekstra za clinical IP (movement intelligence + protokoły longevity + polskie laby), nie za rebranding HUH-a.
+
  
 **Roadmapa SaaS:**
 - **Rok 1 (V 2026 – V 2027):** 4 kliniki w pilotażu free, **1 płacąca klinika do końca roku 1**
@@ -120,6 +120,7 @@ Diagram trzech warstw z HUH jako fundamentem: **dane** (wearables + polskie laby
 - **Rok 4:** 30–50 klinik PL/CEE = MRR 200–400k PLN
 - **Rok 5+:** 50–100 klinik w CEE/EU = MRR 500k–1,5 mln PLN = **ARR 6–18 mln PLN**
 **Realistyczny ARR Rok 5: 6–18 mln PLN.** Solidny exit 30–150 mln PLN przy 5–8× multiple ARR. Unicorn potential w Y8–10 jeśli pełna skala EU.
+
   
 ### Slajd 9 — Go-to-market
  
@@ -133,9 +134,7 @@ Diagram trzech warstw z HUH jako fundamentem: **dane** (wearables + polskie laby
 - **Influencer brand ambassadorship** — pipeline (Jędrzejczyk lub Grzyb jako kandydaci) na year 1+
 - **Targi w Gdańsku** — obecność, prezentacja, networking
 - **Klinka partnerska Nieborowice** — drugi hub, pipeline pacjentów po endoprotezach do programu longevity
-**Cashflow B2C (paralelnie do GTM):**
-- Obecność w CityFit Olivia + treningi medyczne 1:1 + organic feed do longevity
-- Customer journey map (Service Design): w produkcji [appendix]
+
 
 ### Slajd 10 Trakcja i prognozy
  
